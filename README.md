@@ -7,3 +7,9 @@ Unlike the official templates that are currently available, this template does n
 Although this repository contains a LICENSE file, this is meant for you to replace with whatever license you intend to use – please consider what little code is in this repository as public domain, and yours to do with as you please.
 
 It’s my hope that the official Vapor project will add a template similar to this one at some point in the future, but until then please use this however you want.
+
+## Try it out
+
+If you have already installed the Vapor toolbox, you can create a new Vapor project from this repo using the following command:
+
+    vapor new MyProject --template=twostraws/vapor-clean
